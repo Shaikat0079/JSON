@@ -13,3 +13,5 @@ console.log(typeof(person))
 
 const newPersonSimplify = JSON.parse(newPerson)
 console.log(newPersonSimplify)
+console.log(newPerson)
+console.log(newPerson.pName)
